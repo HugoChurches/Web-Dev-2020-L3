@@ -12,7 +12,7 @@ body{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 20%;
+    max-width: 150px;
   }
 .id-container:hover{
     background-color: #ccd0d8;
@@ -51,6 +51,11 @@ body{
     background-color: #ccd0d8;
 }
 
+.objective-p{
+  max-width: 40rem;
+  margin: auto;
+}
+
 .education-container{
     box-sizing: border-box;
     margin-left: auto;
@@ -61,6 +66,18 @@ body{
     background-color: #ccd0d8;
 }
 
+.education-p1{
+  max-width: 40rem;
+  margin: auto;
+}
+.education-p2{
+  max-width: 40rem;
+  margin: auto;
+}
+.education-p3{
+  max-width: 40rem;
+  margin: auto;
+}
 
 .teaching-container{
     box-sizing: border-box;
@@ -70,6 +87,14 @@ body{
 }
 .teaching-container:hover{
     background-color: #ccd0d8;
+}
+.teach-p1{
+  max-width: 50rem;
+  margin: auto;
+}
+.teach-p2{
+  max-width: 50rem;
+  margin: auto;
 }
 
 
@@ -106,6 +131,17 @@ body{
     background-color: #ccd0d8;
 }
 
+.sklls-list{
+  list-style-type: none;
+}
+
+.sklls-comms{
+  list-style-type: none;
+}
+
+.sklls-tools{
+  list-style-type: none;
+}
 
 .ints-container{
     box-sizing: border-box;
@@ -116,7 +152,10 @@ body{
 .ints-container:hover{
     background-color: #ccd0d8;
 }
-
+.ints-p{
+  max-width: 40rem;
+  margin: auto;
+}
 
 .contact-form{
     box-sizing: border-box;
@@ -128,5 +167,3 @@ body{
 .contact-form:hover{
     background-color: #ccd0d8;
 }
-
-
