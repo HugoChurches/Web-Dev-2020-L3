@@ -1,4 +1,4 @@
-This is the second lab practice from our Web Development course, dated 26th February, 2020. This is my resume, I've added a few more CSS features.
+This is the third lab practice from our Web Development course, dated 4th of March, 2020. This is a practice on Flexboxes
 
 -Hugo Churches
 
